@@ -1,7 +1,7 @@
 # Luggage Detection
 
-![Example Luggage Detection](<img width="505" height="900" alt="image" src="https://github.com/user-attachments/assets/35d7d4af-532a-4b53-84f9-75f2a13d68a1" />
-)
+<img width="505" height="900" alt="image" src="https://github.com/user-attachments/assets/35d7d4af-532a-4b53-84f9-75f2a13d68a1" />
+
 
 ## Overview
 
